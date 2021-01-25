@@ -4,7 +4,7 @@ const fs = require("fs");
 const request = require("request");
 
 //堆糖专辑号
-const album_id = 97245096;
+const album_id = 99048915;
 //每页多少条数据，最少4条,小于4会没有初始第一页的数据;
 let limit = 24;
 //第几页的数据
